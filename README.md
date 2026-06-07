@@ -11,8 +11,6 @@
 > Show 2 hands → 🌌 Neon Aura Mode  
 > Pinch → 💥 Shockwave + Sound
 
-![Demo](https://via.placeholder.com/800x400?text=Your+Demo+GIF+Here)
-
 ## 🎮 Quick Start
 
 ```bash
