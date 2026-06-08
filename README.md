@@ -15,7 +15,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/handvfx-neon-aura.git
+git clone https://github.com/aurabydaniyal/HANDVFX-NEON-AURA
 
 # Run on local server or Chrome
 # Open browser → http://localhost:8000 or with Double Click to Open in Chrome
